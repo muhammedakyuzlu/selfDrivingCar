@@ -12,8 +12,6 @@ class Router {
           builder: (ctx) => HomeScreen(),
         );
 
-
-
       // default
       default:
         return MaterialPageRoute(

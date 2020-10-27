@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_localizations/flutter_localizations.dart';
 import 'package:provider/provider.dart';
 import 'dart:async';
-import './helpers/Router.dart';
+import 'helpers/router.dart';
 import './localization/localization.dart';
 import './localization/language_constants.dart';
 
